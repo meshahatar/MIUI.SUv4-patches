@@ -2,6 +2,6 @@
 <resources>
     <string-array name="supported_locale">
         <item>ru_RU</item>
-        <item>uk_UA</item>		
+        <item>uk_UA</item>
     </string-array>	
 </resources>
